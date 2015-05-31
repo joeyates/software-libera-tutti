@@ -65,7 +65,15 @@
   * OLPC
   * RaspberryPi
 
-# Togliere Microsoft Windows da un computer viene chiamato
-"defenestrazione". Se vuoi defenestrare il tuo computer, possiamo fissare
+# Defenestrazione
+
+Togliere Microsoft Windows da un computer viene chiamato "defenestrazione".
+Se vuoi defenestrare il tuo computer, possiamo fissare
 un secondo incontro workshop per farlo. Chi ha un computer Apple e vuol
 liberarlo, lo puo' fare pure - manca solo il verbo scherzoso.
+
+# Dove vado da qui?
+
+* questa presentazione e' disponibile online (link...)
+
+License: Creative Commons...
