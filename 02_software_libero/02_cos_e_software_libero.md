@@ -18,6 +18,14 @@
 * Un modello di collaborazione, non gerarchica
 * Basato sull'uso di specifiche licenze di copyright
 
+!SLIDE bullets incremental
+
+# Copy-left #
+
+* è l'opposto di copyright
+* dà diritti agli utenti
+* l'obbligo di mantenere la libertà del codice
+
 !SLIDE small code
 
 
@@ -52,10 +60,3 @@ in new free programs; and that you know you can do these things.
 anyone to deny you these rights or to ask you to surrender the rights.
 These restrictions translate to certain responsibilities for you if you
 distribute copies of the software, or if you modify it.
-
-!SLIDE bullets incremental
-
-# Copy-left #
-
-* la GPL
-* l'obbligo di mantenere la libertà del codice
