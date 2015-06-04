@@ -1,0 +1,13 @@
+{
+  "name": "Software libera tutti",
+  "sections": [
+    {"section": "01_intro"},
+    {"section": "02_software_libero"},
+    {"section": "03_tutto_libero"},
+    {"section": "04_il_mondo_dell_informatica"},
+    {"section": "05_dimostrazione_software_libero"},
+    {"section": "06_sostenibilita"},
+    {"section": "07_installare"},
+    {"section": "08_conclusione"}
+  ]
+}
