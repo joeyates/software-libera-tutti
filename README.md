@@ -3,12 +3,13 @@
 # Install
 
 ```
-bundle install
+bundle install --binstubs=bin/stubs
 ```
 
 # Use
 
 ```
+export PATH=./bin/stibs:$PATH
 showoff serve
 ```
 
