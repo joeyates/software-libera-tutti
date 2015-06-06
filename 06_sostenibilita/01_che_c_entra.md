@@ -1,6 +1,6 @@
 !SLIDE
 
-# "Che c'entra la sostenibilita'?" #
+# "Che c'entra la sostenibilità?" #
 
 ![Computer Junk](computer_junk.jpg)
 
@@ -8,5 +8,5 @@
 
 # Obsolescenza programmata - Riuso
 
-* sistemi sempre piu' "pesanti", processori sempre piu' potenti
+* sistemi sempre piú "pesanti", processori sempre piú potenti
 * riuso di vecchi computer

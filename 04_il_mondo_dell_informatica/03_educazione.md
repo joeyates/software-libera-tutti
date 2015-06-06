@@ -2,6 +2,6 @@
 
 # Educazione #
 
-* informatica all'universita'
+* informatica a scuola e all'università
 * OLPC
 * RaspberryPi
