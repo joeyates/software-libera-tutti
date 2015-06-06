@@ -18,8 +18,11 @@ liberarlo, lo può fare pure - manca solo il verbo scherzoso.
 
 !SLIDE
 
-# Ottenere il sistema
+# Scaricare Ubuntu
+
+![Download Ubuntu](download-ubuntu.png) [link](http://www.ubuntu.com/download/desktop)
+
 
 !SLIDE
 
-# Dimostrazione di installazione di Ubuntu Linux su un computer
+# Dimostrazione Installazione Ubuntu
