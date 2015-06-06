@@ -1,22 +1,10 @@
 !SLIDE
 
-* codice Linux
+# Richard Stallman #
+![rms](richard_stallman.jpg)
 
-![do_mount](linux_do_mounts.png)
-
-!SLIDE
-
-* codice Windows (o Mac)
-
-![closed source](closed_source.png)
-
-!SLIDE bullets incremental
-
-# "Che cos'e' il software libero?" #
-
-* "Free software" e "Open Source"
-* Un modello di collaborazione, non gerarchica
-* Basato sull'uso di specifiche licenze di copyright
+* stampante
+* Free Software Foundation
 
 !SLIDE bullets incremental
 
@@ -25,6 +13,15 @@
 * è l'opposto di copyright
 * dà diritti agli utenti
 * l'obbligo di mantenere la libertà del codice
+
+!SLIDE bullets incremental
+
+# Il software libero #
+
+* Free software
+* Un modello di collaborazione, non gerarchica
+* Basato sull'uso di specifiche licenze di copyright
+* Gratis?
 
 !SLIDE small code
 
