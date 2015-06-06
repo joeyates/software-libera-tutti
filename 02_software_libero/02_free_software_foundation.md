@@ -3,8 +3,7 @@
 # Richard Stallman #
 ![rms](richard_stallman.jpg)
 
-* stampante
-* Free Software Foundation
+* la stampante (1980) [storia](http://www.oreilly.com/openbook/freedom/ch01.html)
 
 !SLIDE bullets incremental
 
@@ -19,9 +18,10 @@
 # Il software libero #
 
 * Free software
+* Free Software Foundation
+* Gratis?
 * Un modello di collaborazione, non gerarchica
 * Basato sull'uso di specifiche licenze di copyright
-* Gratis?
 
 !SLIDE small code
 
