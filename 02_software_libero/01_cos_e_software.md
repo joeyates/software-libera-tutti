@@ -14,7 +14,7 @@
 
 ![Firefox Source](Firefox_nsFrameLoader.cpp.detail.png)
 
-![fl][firefox-license]
+[© Mozilla Foundation](https://hg.mozilla.org/mozilla-central/raw-file/4a07e1ac3cdf/toolkit/content/license.html)
 
 !SLIDE
 
@@ -22,4 +22,3 @@
 
 ![Firefox Window](Firefox-Window.png)
 
-[firefox-license]: https://hg.mozilla.org/mozilla-central/raw-file/4a07e1ac3cdf/toolkit/content/license.html
