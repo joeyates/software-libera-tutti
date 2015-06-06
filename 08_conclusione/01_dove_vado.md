@@ -1,8 +1,15 @@
-!SLIDE
+!SLIDE bullets incremental
 
 # Dove vado da qui?
 
-* installare?
+* Se decido di installare, cosa devo fare?
+* Backup
+* Un modo sicuro per aggiornare
+
+!SLIDE
+
+# Questa presentazione
+
 * questa presentazione è disponibile online [link](https://software-libera-tutti.herokuapp.com/)
 * il "codice sorgente" di questa presentazione è disponibile online [link](https://github.com/joeyates/software-libera-tutti)
 
