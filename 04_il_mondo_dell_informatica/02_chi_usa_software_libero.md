@@ -1,4 +1,4 @@
-!SLIDE
+!SLIDE bullets incremental
 
 # "Chi usa il software libero?"
 
