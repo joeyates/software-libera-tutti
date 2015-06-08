@@ -1,7 +1,6 @@
 GIT
-  remote: git://github.com/joeyates/showoff.git
-  revision: 816f37faabc84c659b8fb2512c975d0b199be951
-  branch: center_after_image_load
+  remote: git://github.com/puppetlabs/showoff.git
+  revision: e2768c378b79c1e5c4eb39fbaf2f0813c255e353
   specs:
     showoff (0.9.11.1)
       gli (>= 1.3.2)
