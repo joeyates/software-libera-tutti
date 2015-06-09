@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/puppetlabs/showoff.git
-  revision: e2768c378b79c1e5c4eb39fbaf2f0813c255e353
+  revision: dcb6991701a1714aa6e0c6905d6d9332efd75695
   specs:
     showoff (0.9.11.1)
       gli (>= 1.3.2)
