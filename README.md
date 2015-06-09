@@ -1,5 +1,13 @@
 # Software libera tutti
 
+This is a presentation given to the members of the
+"Terra libera tutti" association at Reggello, 2015-06-06.
+
+Ths presentation software is [showoff][showoff-github]
+
+[showoff-github]: https://github.com/puppetlabs/showoff
+
+
 # Install
 
 ```
